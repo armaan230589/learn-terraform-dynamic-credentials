@@ -6,6 +6,7 @@ terraform {
     }
   }
   cloud {
+    organization = "Armaaneha230788"
     workspaces {
       name = "learn-terraform-dynamic-credentials"
     }
